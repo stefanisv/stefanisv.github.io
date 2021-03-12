@@ -99,7 +99,9 @@ input, select, textarea {
 
 	body {
 		background-color: #ffffff;
-	background-image: url("../../images/QUT2.jpg");
+		background-image: url("../../images/QUT2.jpg");
+		background-attachment: fixed;
+		
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3919,25 +3921,6 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		}
-
-/*research areas*/
-	.areas-list {
-			list-style-type: none;
-			margin-left:0px;
-			padding-left:0px;
-			display: inline-block;
-			}
-
-	.areas-list img
-	{
-	float:center;
-	}
-
-	.service-list p,.service-list h3 {
-		text-align: center; 
-		display:inline-block;
-		padding: 0;
 		}
 
 

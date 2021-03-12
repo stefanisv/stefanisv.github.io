@@ -3944,7 +3944,7 @@ input, select, textarea {
 	*/
 	#areas-list > li > .image,
 	#areas-list > li > .image > img{
-  	width:24px; height:24px;
+  	width:200px; height:150px;
 }
 
 

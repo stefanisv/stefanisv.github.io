@@ -3944,8 +3944,11 @@ input, select, textarea {
 	*/
 	#areas-list > li > .image,
 	#areas-list > li > .image > img{
-  	width:200px; height:150px;
-}
+  		max-width: 25rem;
+		margin-left: auto;
+		margin-right: auto;
+		/*width:200px; height:150px;*/
+		}
 
 
 

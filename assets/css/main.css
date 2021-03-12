@@ -3928,14 +3928,14 @@ input, select, textarea {
 	}
 
 	#areas-list > li{
- 		float:left;
+ 		float:center;
   		margin-right: 20px;
-  		width: 130px;
+  		width: 200px;
 	}
 
 	#areas-list > li > .image{
   		display:block;
-  		float:left;
+  		float:center;
   		margin-right:10px;
 	}
 

@@ -3921,6 +3921,35 @@ input, select, textarea {
 
 		}
 
+/*research areas*/
+	#areas-list, #areas-list p, #areas-list h3 {
+		list-style: none;
+		margin:0; padding:0;
+	}
+
+	#areas-list > li{
+ 		float:left;
+  		margin-right: 20px;
+  		width: 130px;
+	}
+
+	#areas-list > li > .image{
+  		display:block;
+  		float:left;
+  		margin-right:10px;
+	}
+
+	/*
+	this instructions are to force the dimensions of image and its container <a>
+	*/
+	#areas-list > li > .image,
+	#areas-list > li > .image > img{
+  	width:24px; height:24px;
+}
+
+
+
+
 /* Footer */
 
 	#footer {

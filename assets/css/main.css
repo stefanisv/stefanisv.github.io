@@ -3598,11 +3598,15 @@ input, select, textarea {
 		margin: -4rem auto 0 auto;
 		overflow: hidden;
 		padding: 0 2rem 0 0;
+		
 		position: fixed;
+		top: 0;
+  		left: 0;
+  		z-index: 9999;
 		
 		width: calc(100% - 4rem);
 		max-width: 72rem;
-		z-index: 2;
+		/*z-index: 2;*/
 	}
 
 		#nav ul.divided li {

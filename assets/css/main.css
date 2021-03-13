@@ -3600,9 +3600,9 @@ input, select, textarea {
 		padding: 0 2rem 0 0;
 		
 		position: fixed;
-		top: 0;
-  		left: 0;
-  		z-index: 9999;
+		bottom: 0;
+  		
+  		z-index: 2;
 		
 		width: calc(100% - 4rem);
 		max-width: 72rem;

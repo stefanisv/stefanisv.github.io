@@ -2240,23 +2240,6 @@ input, select, textarea {
 				background-color: #18bfef;
 			}
 
-		input[type="submit"].bresearch,
-		input[type="reset"].bresearch,
-		input[type="button"].bresearch,
-		button.bresearch,
-		.button.bresearch {
-			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #297dd6;;
-			color: #1f64ad !important;
-		}
-
-			input[type="submit"].bresearch:hover,
-			input[type="reset"].bresearch:hover,
-			input[type="button"].bresearch:hover,
-			button.bresearch:hover,
-			.button.bresearch:hover {
-				background-color: #18bfef;
-			}
 
 
 /* Form */

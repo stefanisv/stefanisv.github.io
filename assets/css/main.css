@@ -98,6 +98,8 @@ input, select, textarea {
 	}
 
 	body {
+		
+		/* */
 		background-color: #ffffff;
 		background-image: url("../../images/QUT3.jpg");
 		background-repeat: no-repeat;
@@ -106,6 +108,7 @@ input, select, textarea {
 		background-position: center;
 		min-height: 100px;
 		background-size: cover;
+		
 		
 	}
 
@@ -124,6 +127,13 @@ input, select, textarea {
 		body {
 			/* The file size of this background image is 93% smaller to improve page load speed on mobile internet connections */
 			background-image: url("../../images/QUT2.jpg");
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+		
+			background-position: center;
+			min-height: 100px;
+			background-size: cover;
+			
 		}
 	}
 

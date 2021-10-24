@@ -101,9 +101,10 @@ input, select, textarea {
 		
 		
 		background-color: #ffffff;
-		background-image: url("../../images/QUT2.jpg");
-		
 		/*
+		background-image: url("../../images/QUT2.jpg");
+		*/
+		
 		background-image: url("../../images/QUT3.jpg");
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -111,7 +112,7 @@ input, select, textarea {
 		background-position: center;
 		min-height: 100px;
 		background-size: cover;
-		 */
+		 
 		
 		
 	}
